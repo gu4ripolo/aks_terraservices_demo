@@ -1,11 +1,7 @@
-output "rg-id" {
-  value = module.create-resource-group.id
+output "rg_name" {
+  value = module.create_resource_group.name
 }
 
-output "rg-name" {
-  value = module.create-resource-group.name
-}
-
-output "rg-location" {
-  value = module.create-resource-group.location
+output "location" {
+  value = module.create_resource_group.location
 }

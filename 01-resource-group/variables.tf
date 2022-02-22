@@ -1,7 +1,2 @@
-variable "rg-name" {
-  default = "aks-dem"
-}
-
-variable "location" {
-  default = "centralus"
-}
+variable "rg-name" {}
+variable "location" {}

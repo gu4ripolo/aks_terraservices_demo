@@ -1,2 +1,2 @@
-rg-name = "aks-demo"
+rg-name  = "aks-demo"
 location = "centralus"
